@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
-<h3 align="center">I'm a strategy consultant and hobby Rails developer. In my final projects at Le Wagon in Lisbon me and my team built a marketplace for clowns (see repo 'Les_Bouffons') and a mobile first web-app to organize small league tournaments with friends (repo: 'Le_WaPong'). I have yet to see how much I'll be coding going forward and what I'll try to learn next...</h3>
+<h3 align="center">I'm a strategy consultant and hobby Rails developer. In my final projects at Le Wagon in Lisbon me and my team built a marketplace for clowns: <a href="[https://github.com/manuelkneib/Le_WaPong](https://github.com/CharlesSwannn/Les_Bouffons)" target="blank">'Les Bouffons'</a> and a mobile first web-app to organize small league tournaments with friends: <a href="https://github.com/manuelkneib/Le_WaPong" target="blank">'Le WaPong'</a>. I have yet to see how much I'll be coding going forward and what I'll try to learn next...</h3>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
